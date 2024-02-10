@@ -17,5 +17,3 @@ test jual gas 2019
 test jual gas 2018
 
 test jual gas 2017
-
-gas
